@@ -1,0 +1,6 @@
+{
+  "name": "MLock",
+  "description": "Secure, local-only application to lock selected apps on your device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
