@@ -34,7 +34,7 @@
 
 Want to skip the build process? Download the latest stable APK directly and install it on your device:
 
-🔗 **[Download MLock APK Placeholder Link](https://github.com/)**
+🔗 **[Download MLock APK Placeholder Link](https://github.com/ishashwat/MLock-AppLocker/releases/download/v1.0.0/MLock.apk)**
 
 *(Note: Ensure you have "Install from Unknown Sources" enabled on your Android device to install the APK directly.)*
 
@@ -50,7 +50,7 @@ If you prefer to compile the application yourself, follow these detailed steps:
 #### 2. Clone the Repository
 Open your terminal and run:
 ```bash
-git clone https://github.com/your-repo/MLock.git
+git clone https://github.com/ishashwatt/MLock-AppLocker.git
 cd MLock
 ```
 
@@ -86,7 +86,7 @@ Contributions, issues, and feature requests are welcome! If you'd like to improv
 1. **Fork the Repository**: Click the `Fork` button at the top right of the GitHub page.
 2. **Clone your Fork**: 
    ```bash
-   git clone https://github.com/<your-username>/MLock.git
+   git clone https://github.com/ishashwatt/MLock-AppLocker.git
    ```
 3. **Create a Feature Branch**: 
    ```bash
